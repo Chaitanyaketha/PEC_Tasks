@@ -1,0 +1,9 @@
+Available Books:
+DBMS by Reema Thareja (1990)
+Python by Guido van Rossum (1931)
+Chaitanya has borrowed 'DBMS'
+Likhith has borrowed 'Python'
+Available Books:
+Chaitanya has returned the 'DBMS'
+Available Books:
+DBMS by Reema Thareja (1990)
